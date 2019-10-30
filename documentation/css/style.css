@@ -60,10 +60,11 @@ a:focus {
 .logo {
     background-color: #333;
     box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.4) inset;
-    height: 174px;
-    line-height: 160px;
+    height: 184px;
+    line-height: 120px;
     text-align: center;
 }
+
 
 .left-content {
     text-align: right;
